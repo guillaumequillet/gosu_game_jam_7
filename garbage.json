@@ -1,0 +1,12 @@
+{
+  "0" : {
+    "type": "metal",
+    "weight_impact": 0.8,
+    "points": 100
+  },
+  "1" : {
+    "type": "paper",
+    "weight_impact": 2,
+    "points": 50
+  }
+}
